@@ -1,0 +1,18 @@
+body{
+  
+    background-color: red;
+}
+
+#test{
+    color: white;
+}
+
+.one{
+    width: 300px;height: 250px;background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inone{
+    width: 150px;height: 100px;background-color: white;
+}
